@@ -24,7 +24,6 @@ function getItems() {
         let price = div.querySelector('span.ZI9r').innerText;
         let info = div.querySelector('span.a8b6').innerText;
         if (info.includes('Доставит')) info = '';
-
         table += `<tr>
                     <td>${i}</td>
                     <td><a href="${link}">${title}</a></td>
@@ -35,7 +34,6 @@ function getItems() {
     table += '</table>';
     copyToClipboard(table);
 }
-
 function copyToClipboard(data) {
     const blob = new Blob([data], { type: "text/html" });
     navigator.clipboard.write([new ClipboardItem({ [blob.type]: blob })])
