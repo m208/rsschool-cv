@@ -4,6 +4,7 @@
 * [__GitHub: @m208__](https://github.com/m208)
 * [__Discord: @m208#7830__](https://discordapp.com/users/160452172935462912)
 * [__Telegram: @m20898__](https://t.me/m20898)
+
 ## About me
 My name is Andrey. I have no any experience in the IT at all. 
 I work as an engineer designer of industrial engineering systems. Ventilation, air conditioning, air purification systems, dust removal, vacuum systems, etc.
@@ -27,9 +28,10 @@ The bot's actions were carried out by emulating mouse and keyboard clicks.
 <details>
   <summary>Game with info overlay screenshot:</summary>
   
- ![Game screenshot](img/fo.png)
- Video on demand.
+ ![Game screenshot](https://m208.github.io/rsschool-cv/img/fo.png)
 </details>
+Video on demand.
+
 ---
 </details>
 
@@ -68,9 +70,9 @@ The app was actively used by several my friends, for about 6 months.
 <details>
   <summary>App screenshots:</summary>
   
- ![App screen](img/app.png)
- ![Telegram screen](img/tg.png)
- ![App structure](img/scheme.png)
+ ![App screen](https://m208.github.io/rsschool-cv/img/app.png)
+ ![Telegram screen](https://m208.github.io/rsschool-cv/img/tg.png)
+ ![App structure](https://m208.github.io/rsschool-cv/img/scheme.png)
 </details>  
 
 </details>
